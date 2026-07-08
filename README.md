@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/assets/blue_orbit.png" alt="Blue Orbit Logo" width="600" style="border-radius:10px; margin-bottom: 20px;" />
+  <img src="./src/assets/blue_orbit.png" alt="Blue Orbit Logo" width="250" style="border-radius:10px; margin-bottom: 20px;" />
   
   # Blue Orbit 🌍✨
   

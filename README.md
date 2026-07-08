@@ -4,6 +4,11 @@
   # Blue Orbit 🌍✨
   
   **NASA Space Apps Challenge 2025 Global Nominee** 🚀  
+  <br>
+  <a href="https://www.spaceappschallenge.org/2025/find-a-team/cosmic-horizons/">
+    <img src="https://i.ibb.co/678mj6n9/Screenshot-8-7-2026-134858-www-spaceappschallenge-org-removebg-preview.png" alt="NASA Space Apps Challenge Global Nominee" border="0" width="200">
+  </a>
+  <br>
   [Check out our Cosmic Horizons Team Page!](https://www.spaceappschallenge.org/2025/find-a-team/cosmic-horizons/)
 </div>
 

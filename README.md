@@ -7,7 +7,9 @@
     <img src="https://i.ibb.co/678mj6n9/Screenshot-8-7-2026-134858-www-spaceappschallenge-org-removebg-preview.png" alt="NASA Space Apps Challenge Global Nominee" border="0" width="200">
   </a>
   <br>
-  [Check out our Cosmic Horizons Team Page!](https://www.spaceappschallenge.org/2025/find-a-team/cosmic-horizons/)
+  [Check out our Cosmic Horizons Team Page!](https://www.spaceappschallenge.org/2025/find-a-team/cosmic-horizons/)  
+  <br><br>
+  **🌟 [Play the Live Demo Here!](https://blue-orbit.netlify.app/) 🌟**
 </div>
 
 ---
@@ -20,7 +22,6 @@ We wanted to build something that felt alive and deeply interactive. Here is the
 
 * **React & React Router**: The core framework driving our multi-part journey (`Part 1` through `Part 6`). It ensures smooth, single-page transitions without reloading the page.
 * **Three.js & React-Globe.gl**: We used powerful WebGL libraries to render stunning, interactive 3D globes and planetary environments directly in the browser.
-* **Spline 3D (`@splinetool/react-spline`)**: Used for embedding beautiful, real-time 3D models and animations into our UI effortlessly.
 * **Gemini AI Integration**: We built a custom `AIChat` component powered by Google's Gemini API, allowing users to ask natural language questions and get intelligent, space-related answers dynamically.
 * **Immersive Audio**: We utilized HTML5 Audio Contexts to map background music and dynamic sound effects (like thunder and water droplets) to different scenes for a truly cinematic feel.
 * **Lucide React**: For sleek, modern UI iconography.

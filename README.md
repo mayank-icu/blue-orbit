@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./src/assets/blue_orbit.png" alt="Blue Orbit Logo" width="250" style="border-radius:10px; margin-bottom: 20px;" />
   
-  # Blue Orbit 🌍✨
-  
   **NASA Space Apps Challenge 2025 Global Nominee** 🚀  
   <br>
   <a href="https://www.spaceappschallenge.org/2025/find-a-team/cosmic-horizons/">
